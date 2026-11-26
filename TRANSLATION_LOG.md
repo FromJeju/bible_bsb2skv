@@ -467,3 +467,7 @@
 ### 2026-11-27: 아모스(AMO) 5~7장 번역
 - 대상: `work/skv/30_AMO.json` 5~7장
 - 검증: `python3 scripts/build_and_validate.py --book AMO --chapter 5..7` 통과
+
+### 2026-11-27: 아모스(AMO) 8~9장 번역 및 아모스 완역·빌드
+- 대상: `work/skv/30_AMO.json` 8~9장 및 아모스 전체(9장, 146절)
+- 검증 및 산출물: `python3 scripts/build_and_validate.py --book AMO` 통과 (`output/json/30_AMO.json`, `output/xml/30_AMO.xml`)
