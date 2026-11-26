@@ -36,8 +36,8 @@ HR034,2CO,5,17,17,암송,Y,완료,analysis/2CO_005_017.md
 HR035,GAL,2,20,20,암송,Y,완료,analysis/GAL_002_020.md
 HR036,GAL,5,22,23,암송,Y,완료,analysis/GAL_005_022-023.md
 HR037,EPH,2,8,9,암송·전도,Y,완료,analysis/EPH_002_008-009.md
-HR038,PHP,4,6,7,암송,N,대기,
-HR039,PHP,4,13,13,암송,N,대기,
+HR038,PHP,4,6,7,암송,Y,완료,analysis/PHP_004_006-007.md
+HR039,PHP,4,13,13,암송,Y,완료,analysis/PHP_004_013.md
 HR040,1TH,5,16,18,암송,N,대기,
 HR041,2TI,3,16,16,암송,N,대기,
 HR042,HEB,11,1,1,암송,N,대기,
