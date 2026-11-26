@@ -193,3 +193,4 @@
 - **2CH 25~28장**: 번역 및 검증 완료 (`work/skv/14_2CH.json`, 4개 장)
 - **2CH 29~32장**: 번역 및 검증 완료 (`work/skv/14_2CH.json`, 4개 장)
 - **2CH 33~36장 및 역대하 전체 빌드**: 번역·검증 및 JSON/XML 빌드 완료 (`output/json/14_2CH.json`, `output/xml/14_2CH.xml`, 총 36장)
+- **EZR 1~5장**: 번역 및 검증 완료 (`work/skv/15_EZR.json`, 5개 장)
