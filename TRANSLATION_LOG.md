@@ -198,3 +198,4 @@
 - **NEH 1~5장**: 번역 및 검증 완료 (`work/skv/16_NEH.json`, 5개 장)
 - **NEH 6~8장**: 번역 및 검증 완료 (`work/skv/16_NEH.json`, 3개 장)
 - **NEH 9~13장 및 느헤미야 전체 빌드**: 번역·검증 및 JSON/XML 빌드 완료 (`output/json/16_NEH.json`, `output/xml/16_NEH.xml`, 총 13장)
+- **EST 1~5장**: 번역 및 검증 완료 (`work/skv/17_EST.json`, 5개 장)
