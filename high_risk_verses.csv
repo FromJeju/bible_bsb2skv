@@ -10,7 +10,7 @@ HR008,PSA,46,10,10,암송,Y,완료,analysis/PSA_046_010.md
 HR009,PSA,119,105,105,암송,Y,완료,analysis/PSA_119_105.md
 HR010,PSA,121,1,8,암송,Y,완료,analysis/PSA_121_001-008.md
 HR011,PRO,3,5,6,암송,Y,완료,analysis/PRO_003_005-006.md
-HR012,ISA,40,31,31,암송,N,대기,
+HR012,ISA,40,31,31,암송,Y,완료,analysis/ISA_040_031.md
 HR013,ISA,41,10,10,암송,N,대기,
 HR014,ISA,53,5,5,암송·절기,N,대기,고난주간
 HR015,JER,29,11,11,암송,N,대기,
