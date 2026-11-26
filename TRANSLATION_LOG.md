@@ -475,3 +475,7 @@
 ### 2026-11-27: 오바댜(OBA) 1장 번역 및 오바댜 완역·빌드
 - 대상: `work/skv/31_OBA.json` 전체(1장, 21절)
 - 검증 및 산출물: `python3 scripts/build_and_validate.py --book OBA` 통과 (`output/json/31_OBA.json`, `output/xml/31_OBA.xml`)
+
+### 2026-11-27: 요나(JON) 1~4장 번역 및 요나 완역·빌드
+- 대상: `work/skv/32_JON.json` 전체(4장, 48절)
+- 검증 및 산출물: `python3 scripts/build_and_validate.py --book JON` 통과 (`output/json/32_JON.json`, `output/xml/32_JON.xml`)
