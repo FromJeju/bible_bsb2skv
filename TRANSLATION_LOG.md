@@ -483,3 +483,7 @@
 ### 2026-11-27: 미가(MIC) 1~4장 번역
 - 대상: `work/skv/33_MIC.json` 1~4장
 - 검증: `python3 scripts/build_and_validate.py --book MIC --chapter 1..4` 통과
+
+### 2026-11-27: 미가(MIC) 5~7장 번역, HR016 분석 및 미가 완역·빌드
+- 대상: `work/skv/33_MIC.json` 5~7장 및 미가 전체(7장, 105절), `analysis/MIC_006_008.md`
+- 검증 및 산출물: `python3 scripts/build_and_validate.py --book MIC` 통과 (`output/json/33_MIC.json`, `output/xml/33_MIC.xml`)
