@@ -1,8 +1,8 @@
 {
   "total_books": 66,
   "total_chapters": 1189,
-  "total_verses": 30969,
-  "total_high_risk_verses": 119,
+  "total_verses": 31086,
+  "total_high_risk_verses": 121,
   "books": [
     {
       "order": 1,
@@ -172,8 +172,8 @@
       "name_ko": "시편",
       "testament": "OT",
       "chapters": 150,
-      "verses": 2345,
-      "high_risk_verses": 20
+      "verses": 2461,
+      "high_risk_verses": 22
     },
     {
       "order": 20,
@@ -343,7 +343,7 @@
       "name_ko": "스가랴",
       "testament": "OT",
       "chapters": 14,
-      "verses": 210,
+      "verses": 211,
       "high_risk_verses": 0
     },
     {

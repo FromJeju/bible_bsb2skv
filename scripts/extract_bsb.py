@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Extract BSB USJ files into clean per-book JSON work files and corpus stats."""
 
+from __future__ import annotations
+
 import csv
 import json
 from pathlib import Path
@@ -184,11 +186,7 @@ def extract_book(book_id: str, order: int, name_ko: str, name_en: str, testament
             if txt:
                 pending_cross_ref.append(txt)
             continue
-        if marker == "d":
-            txt = flatten_text(node.get("content", []))
-            if txt:
-                pending_superscription.append(txt)
-            continue
+
 
         is_poetry_para = marker in POETRY_MARKERS
         line_buf = []
