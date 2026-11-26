@@ -1,7 +1,7 @@
 id,book,chapter,verse_start,verse_end,category,analysis_done,status,note
 HR001,GEN,1,1,1,암송,Y,완료,analysis/GEN_001_001.md
 HR002,EXO,20,1,17,예배·교육,Y,완료,analysis/EXO_020_001-017.md
-HR003,NUM,6,24,26,축복기도,N,대기,아론의 축복
+HR003,NUM,6,24,26,축복기도,Y,완료,analysis/NUM_006_024-026.md
 HR004,DEU,6,4,5,암송,N,대기,
 HR005,JOS,1,9,9,암송,N,대기,
 HR006,PSA,1,1,6,암송,N,대기,장 전체
