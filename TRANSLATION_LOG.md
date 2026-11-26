@@ -519,3 +519,7 @@
 ### 2026-11-27: 스가랴(ZEC) 12~14장 번역 및 스가랴 완역·빌드
 - 대상: `work/skv/38_ZEC.json` 12~14장 및 스가랴 전체(14장, 211절)
 - 검증 및 산출물: `python3 scripts/build_and_validate.py --book ZEC` 통과 (`output/json/38_ZEC.json`, `output/xml/38_ZEC.xml`)
+
+### 2026-11-27: 말라기(MAL) 1~4장 번역 및 전체 성경 66권 통합 빌드 완료
+- 대상: `work/skv/39_MAL.json` 전체(4장, 55절) 및 전체 성경 66권(1,189장, 31,086절)
+- 검증 및 산출물: `python3 scripts/build_and_validate.py --book MAL` 및 `--all --combined` 통과 (`output/json/39_MAL.json`, `output/xml/39_MAL.xml`, `output/json/skv_bible.json`, `output/xml/skv_bible.xml`)
