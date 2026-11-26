@@ -223,3 +223,4 @@
 - **PSA 52~58편**: 번역 및 검증 완료 (`work/skv/19_PSA.json`, 7개 편)
 - **PSA 59~65편**: 번역 및 검증 완료 (`work/skv/19_PSA.json`, 7개 편)
 - **PSA 66~68편**: 번역 및 검증 완료 (`work/skv/19_PSA.json`, 3개 편)
+- **PSA 69~72편**: 번역 및 검증 완료 (`work/skv/19_PSA.json`, 4개 편)
