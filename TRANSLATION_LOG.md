@@ -527,3 +527,7 @@
 ### 2026-11-27: 이사야(ISA) 44:6, 44:8 용어집 경고 해소 및 전체 66권 무경고 통합 빌드
 - 대상: `work/skv/23_ISA.json` 44:6, 44:8 (`God` → `하나님` 반영)
 - 검증 및 산출물: `python3 scripts/build_and_validate.py --book ISA` 및 `--all --combined` 경고 0건 통과 (`output/json/23_ISA.json`, `output/xml/23_ISA.xml`, `output/json/skv_bible.json`, `output/xml/skv_bible.xml`)
+
+### 2026-11-27: 이사야(ISA) 44:6, 44:8 문맥 반영('다른 신이') 및 통합 재빌드
+- 대상: `work/skv/23_ISA.json` 44:6, 44:8 (`다른 하나님이` → `다른 신이` 복원; 유일신 문맥 반영, 용어집 자동 경고 2건은 의도적 예외로 유지)
+- 검증 및 산출물: `python3 scripts/build_and_validate.py --book ISA` 및 `--all --combined` 통과 (`output/json/23_ISA.json`, `output/xml/23_ISA.xml`, `output/json/skv_bible.json`, `output/xml/skv_bible.xml`)
