@@ -233,3 +233,4 @@
 - **PSA 104~105편**: 번역 및 검증 완료 (`work/skv/19_PSA.json`, 2개 편)
 - **PSA 106~108편**: 번역 및 검증 완료 (`work/skv/19_PSA.json`, 3개 편)
 - **PSA 109~115편**: 번역 및 검증 완료 (`work/skv/19_PSA.json`, 7개 편)
+- **PSA 116~118편**: 번역 및 검증 완료 (`work/skv/19_PSA.json`, 3개 편)
