@@ -487,3 +487,7 @@
 ### 2026-11-27: 미가(MIC) 5~7장 번역, HR016 분석 및 미가 완역·빌드
 - 대상: `work/skv/33_MIC.json` 5~7장 및 미가 전체(7장, 105절), `analysis/MIC_006_008.md`
 - 검증 및 산출물: `python3 scripts/build_and_validate.py --book MIC` 통과 (`output/json/33_MIC.json`, `output/xml/33_MIC.xml`)
+
+### 2026-11-27: 나훔(NAM) 1~3장 번역 및 나훔 완역·빌드
+- 대상: `work/skv/34_NAM.json` 전체(3장, 47절)
+- 검증 및 산출물: `python3 scripts/build_and_validate.py --book NAM` 통과 (`output/json/34_NAM.json`, `output/xml/34_NAM.xml`)
