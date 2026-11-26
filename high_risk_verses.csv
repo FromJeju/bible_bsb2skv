@@ -13,7 +13,7 @@ HR011,PRO,3,5,6,암송,Y,완료,analysis/PRO_003_005-006.md
 HR012,ISA,40,31,31,암송,Y,완료,analysis/ISA_040_031.md
 HR013,ISA,41,10,10,암송,Y,완료,analysis/ISA_041_010.md
 HR014,ISA,53,5,5,암송·절기,Y,완료,analysis/ISA_053_005.md
-HR015,JER,29,11,11,암송,N,대기,
+HR015,JER,29,11,11,암송,Y,완료,analysis/JER_029_011.md
 HR016,MIC,6,8,8,암송,N,대기,
 HR017,MAT,5,3,12,암송,Y,완료,팔복
 HR018,MAT,6,9,13,예배·기도,Y,완료,주기도문 본문

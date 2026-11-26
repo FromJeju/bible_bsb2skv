@@ -311,3 +311,7 @@
 ### 2026-11-26: 예레미야(JER) 25~27장 번역
 - 대상: `work/skv/24_JER.json` 25~27장
 - 검증: `python3 scripts/build_and_validate.py --book JER --chapter 25..27` 통과
+
+### 2026-11-26: 예레미야(JER) 28~29장 번역 및 HR015 분석 완료
+- 대상: `work/skv/24_JER.json` 28~29장, `analysis/JER_029_011.md` (`HR015`), `high_risk_verses.csv`
+- 검증: `python3 scripts/build_and_validate.py --book JER --chapter 28..29` 통과
