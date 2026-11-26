@@ -210,3 +210,4 @@
 - **JOB 29~31장**: 번역 및 검증 완료 (`work/skv/18_JOB.json`, 3개 장)
 - **JOB 32~35장**: 번역 및 검증 완료 (`work/skv/18_JOB.json`, 4개 장)
 - **JOB 36~38장**: 번역 및 검증 완료 (`work/skv/18_JOB.json`, 3개 장)
+- **JOB 39~42장 및 욥기 전체 빌드**: 번역·검증 및 JSON/XML 빌드 완료 (`output/json/18_JOB.json`, `output/xml/18_JOB.xml`, 총 42장)
