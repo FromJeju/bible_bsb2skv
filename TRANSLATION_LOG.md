@@ -387,3 +387,7 @@
 ### 2026-11-26: 에스겔(EZK) 19~21장 번역
 - 대상: `work/skv/26_EZK.json` 19~21장
 - 검증: `python3 scripts/build_and_validate.py --book EZK --chapter 19..21` 통과
+
+### 2026-11-26: 에스겔(EZK) 22~24장 번역
+- 대상: `work/skv/26_EZK.json` 22~24장
+- 검증: `python3 scripts/build_and_validate.py --book EZK --chapter 22..24` 통과
