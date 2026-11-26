@@ -495,3 +495,7 @@
 ### 2026-11-27: 하박국(HAB) 1~3장 번역 및 하박국 완역·빌드
 - 대상: `work/skv/35_HAB.json` 전체(3장, 56절)
 - 검증 및 산출물: `python3 scripts/build_and_validate.py --book HAB` 통과 (`output/json/35_HAB.json`, `output/xml/35_HAB.xml`)
+
+### 2026-11-27: 스바냐(ZEP) 1~3장 번역 및 스바냐 완역·빌드
+- 대상: `work/skv/36_ZEP.json` 전체(3장, 53절)
+- 검증 및 산출물: `python3 scripts/build_and_validate.py --book ZEP` 통과 (`output/json/36_ZEP.json`, `output/xml/36_ZEP.xml`)
