@@ -471,3 +471,7 @@
 ### 2026-11-27: 아모스(AMO) 8~9장 번역 및 아모스 완역·빌드
 - 대상: `work/skv/30_AMO.json` 8~9장 및 아모스 전체(9장, 146절)
 - 검증 및 산출물: `python3 scripts/build_and_validate.py --book AMO` 통과 (`output/json/30_AMO.json`, `output/xml/30_AMO.xml`)
+
+### 2026-11-27: 오바댜(OBA) 1장 번역 및 오바댜 완역·빌드
+- 대상: `work/skv/31_OBA.json` 전체(1장, 21절)
+- 검증 및 산출물: `python3 scripts/build_and_validate.py --book OBA` 통과 (`output/json/31_OBA.json`, `output/xml/31_OBA.xml`)
