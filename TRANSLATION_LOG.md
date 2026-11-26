@@ -499,3 +499,7 @@
 ### 2026-11-27: 스바냐(ZEP) 1~3장 번역 및 스바냐 완역·빌드
 - 대상: `work/skv/36_ZEP.json` 전체(3장, 53절)
 - 검증 및 산출물: `python3 scripts/build_and_validate.py --book ZEP` 통과 (`output/json/36_ZEP.json`, `output/xml/36_ZEP.xml`)
+
+### 2026-11-27: 학개(HAG) 1~2장 번역 및 학개 완역·빌드
+- 대상: `work/skv/37_HAG.json` 전체(2장, 38절)
+- 검증 및 산출물: `python3 scripts/build_and_validate.py --book HAG` 통과 (`output/json/37_HAG.json`, `output/xml/37_HAG.xml`)
