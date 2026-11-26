@@ -256,3 +256,4 @@
 - **ECC 12 & 전체 빌드** (`21_ECC`): 전도서 12장 번역·검증 및 12장 전체 빌드 완료 (`output/json/21_ECC.json`, `output/xml/21_ECC.xml`)
 - **SNG 1–4** (`22_SNG`): 아가 1~4장 번역 및 장별 검증 완료 (`--chapter 1..4`)
 - **SNG 5–8 & 전체 빌드** (`22_SNG`): 아가 5~8장 번역·검증 및 8장 전체 빌드 완료 (`output/json/22_SNG.json`, `output/xml/22_SNG.xml`)
+- **ISA 1–2** (`23_ISA`): 이사야 1~2장 번역 및 장별 검증 완료 (`--chapter 1..2`)
