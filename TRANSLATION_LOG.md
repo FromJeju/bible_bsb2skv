@@ -523,3 +523,7 @@
 ### 2026-11-27: 말라기(MAL) 1~4장 번역 및 전체 성경 66권 통합 빌드 완료
 - 대상: `work/skv/39_MAL.json` 전체(4장, 55절) 및 전체 성경 66권(1,189장, 31,086절)
 - 검증 및 산출물: `python3 scripts/build_and_validate.py --book MAL` 및 `--all --combined` 통과 (`output/json/39_MAL.json`, `output/xml/39_MAL.xml`, `output/json/skv_bible.json`, `output/xml/skv_bible.xml`)
+
+### 2026-11-27: 이사야(ISA) 44:6, 44:8 용어집 경고 해소 및 전체 66권 무경고 통합 빌드
+- 대상: `work/skv/23_ISA.json` 44:6, 44:8 (`God` → `하나님` 반영)
+- 검증 및 산출물: `python3 scripts/build_and_validate.py --book ISA` 및 `--all --combined` 경고 0건 통과 (`output/json/23_ISA.json`, `output/xml/23_ISA.xml`, `output/json/skv_bible.json`, `output/xml/skv_bible.xml`)
