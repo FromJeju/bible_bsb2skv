@@ -214,3 +214,4 @@
 - **PSA 1~6편 및 HR006 분석**: 번역·검증 및 고위험 구절 분석 완료 (`work/skv/19_PSA.json`, `analysis/PSA_001_001-006.md`, 6개 편)
 - **PSA 7~12편**: 번역 및 검증 완료 (`work/skv/19_PSA.json`, 6개 편)
 - **PSA 13~21편 (7편 용어집 수정 포함)**: 번역 및 검증 완료 (`work/skv/19_PSA.json`, 9개 편)
+- **PSA 22~26편 및 HR007 분석**: 번역·검증 및 고위험 구절 분석 완료 (`work/skv/19_PSA.json`, `analysis/PSA_023_001-006.md`, 5개 편)
