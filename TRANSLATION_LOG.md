@@ -507,3 +507,7 @@
 ### 2026-11-27: 스가랴(ZEC) 1~3장 번역
 - 대상: `work/skv/38_ZEC.json` 1~3장
 - 검증: `python3 scripts/build_and_validate.py --book ZEC --chapter 1..3` 통과
+
+### 2026-11-27: 스가랴(ZEC) 4~7장 번역
+- 대상: `work/skv/38_ZEC.json` 4~7장
+- 검증: `python3 scripts/build_and_validate.py --book ZEC --chapter 4..7` 통과
