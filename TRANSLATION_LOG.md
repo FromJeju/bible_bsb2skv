@@ -415,3 +415,7 @@
 ### 2026-11-26: 에스겔(EZK) 41~43장 번역
 - 대상: `work/skv/26_EZK.json` 41~43장
 - 검증: `python3 scripts/build_and_validate.py --book EZK --chapter 41..43` 통과
+
+### 2026-11-26: 에스겔(EZK) 44~45장 번역
+- 대상: `work/skv/26_EZK.json` 44~45장
+- 검증: `python3 scripts/build_and_validate.py --book EZK --chapter 44..45` 통과
