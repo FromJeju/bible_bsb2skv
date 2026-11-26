@@ -202,3 +202,4 @@
 - **EST 6~10장 및 에스더 전체 빌드**: 번역·검증 및 JSON/XML 빌드 완료 (`output/json/17_EST.json`, `output/xml/17_EST.xml`, 총 10장)
 - **JOB 1~3장**: 번역 및 검증 완료 (`work/skv/18_JOB.json`, 3개 장)
 - **JOB 4~7장**: 번역 및 검증 완료 (`work/skv/18_JOB.json`, 4개 장)
+- **JOB 8~11장**: 번역 및 검증 완료 (`work/skv/18_JOB.json`, 4개 장)
