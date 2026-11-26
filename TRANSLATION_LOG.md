@@ -209,3 +209,4 @@
 - **JOB 24~28장**: 번역 및 검증 완료 (`work/skv/18_JOB.json`, 5개 장)
 - **JOB 29~31장**: 번역 및 검증 완료 (`work/skv/18_JOB.json`, 3개 장)
 - **JOB 32~35장**: 번역 및 검증 완료 (`work/skv/18_JOB.json`, 4개 장)
+- **JOB 36~38장**: 번역 및 검증 완료 (`work/skv/18_JOB.json`, 3개 장)
