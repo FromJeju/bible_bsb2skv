@@ -1,0 +1,602 @@
+{
+  "total_books": 66,
+  "total_chapters": 1189,
+  "total_verses": 30969,
+  "total_high_risk_verses": 119,
+  "books": [
+    {
+      "order": 1,
+      "id": "GEN",
+      "name_ko": "창세기",
+      "testament": "OT",
+      "chapters": 50,
+      "verses": 1533,
+      "high_risk_verses": 1
+    },
+    {
+      "order": 2,
+      "id": "EXO",
+      "name_ko": "출애굽기",
+      "testament": "OT",
+      "chapters": 40,
+      "verses": 1213,
+      "high_risk_verses": 17
+    },
+    {
+      "order": 3,
+      "id": "LEV",
+      "name_ko": "레위기",
+      "testament": "OT",
+      "chapters": 27,
+      "verses": 859,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 4,
+      "id": "NUM",
+      "name_ko": "민수기",
+      "testament": "OT",
+      "chapters": 36,
+      "verses": 1288,
+      "high_risk_verses": 3
+    },
+    {
+      "order": 5,
+      "id": "DEU",
+      "name_ko": "신명기",
+      "testament": "OT",
+      "chapters": 34,
+      "verses": 959,
+      "high_risk_verses": 2
+    },
+    {
+      "order": 6,
+      "id": "JOS",
+      "name_ko": "여호수아",
+      "testament": "OT",
+      "chapters": 24,
+      "verses": 658,
+      "high_risk_verses": 1
+    },
+    {
+      "order": 7,
+      "id": "JDG",
+      "name_ko": "사사기",
+      "testament": "OT",
+      "chapters": 21,
+      "verses": 618,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 8,
+      "id": "RUT",
+      "name_ko": "룻기",
+      "testament": "OT",
+      "chapters": 4,
+      "verses": 85,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 9,
+      "id": "1SA",
+      "name_ko": "사무엘상",
+      "testament": "OT",
+      "chapters": 31,
+      "verses": 810,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 10,
+      "id": "2SA",
+      "name_ko": "사무엘하",
+      "testament": "OT",
+      "chapters": 24,
+      "verses": 695,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 11,
+      "id": "1KI",
+      "name_ko": "열왕기상",
+      "testament": "OT",
+      "chapters": 22,
+      "verses": 816,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 12,
+      "id": "2KI",
+      "name_ko": "열왕기하",
+      "testament": "OT",
+      "chapters": 25,
+      "verses": 719,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 13,
+      "id": "1CH",
+      "name_ko": "역대상",
+      "testament": "OT",
+      "chapters": 29,
+      "verses": 942,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 14,
+      "id": "2CH",
+      "name_ko": "역대하",
+      "testament": "OT",
+      "chapters": 36,
+      "verses": 822,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 15,
+      "id": "EZR",
+      "name_ko": "에스라",
+      "testament": "OT",
+      "chapters": 10,
+      "verses": 280,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 16,
+      "id": "NEH",
+      "name_ko": "느헤미야",
+      "testament": "OT",
+      "chapters": 13,
+      "verses": 406,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 17,
+      "id": "EST",
+      "name_ko": "에스더",
+      "testament": "OT",
+      "chapters": 10,
+      "verses": 167,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 18,
+      "id": "JOB",
+      "name_ko": "욥기",
+      "testament": "OT",
+      "chapters": 42,
+      "verses": 1070,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 19,
+      "id": "PSA",
+      "name_ko": "시편",
+      "testament": "OT",
+      "chapters": 150,
+      "verses": 2345,
+      "high_risk_verses": 20
+    },
+    {
+      "order": 20,
+      "id": "PRO",
+      "name_ko": "잠언",
+      "testament": "OT",
+      "chapters": 31,
+      "verses": 915,
+      "high_risk_verses": 2
+    },
+    {
+      "order": 21,
+      "id": "ECC",
+      "name_ko": "전도서",
+      "testament": "OT",
+      "chapters": 12,
+      "verses": 222,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 22,
+      "id": "SNG",
+      "name_ko": "아가",
+      "testament": "OT",
+      "chapters": 8,
+      "verses": 117,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 23,
+      "id": "ISA",
+      "name_ko": "이사야",
+      "testament": "OT",
+      "chapters": 66,
+      "verses": 1292,
+      "high_risk_verses": 3
+    },
+    {
+      "order": 24,
+      "id": "JER",
+      "name_ko": "예레미야",
+      "testament": "OT",
+      "chapters": 52,
+      "verses": 1364,
+      "high_risk_verses": 1
+    },
+    {
+      "order": 25,
+      "id": "LAM",
+      "name_ko": "예레미야애가",
+      "testament": "OT",
+      "chapters": 5,
+      "verses": 154,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 26,
+      "id": "EZK",
+      "name_ko": "에스겔",
+      "testament": "OT",
+      "chapters": 48,
+      "verses": 1273,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 27,
+      "id": "DAN",
+      "name_ko": "다니엘",
+      "testament": "OT",
+      "chapters": 12,
+      "verses": 357,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 28,
+      "id": "HOS",
+      "name_ko": "호세아",
+      "testament": "OT",
+      "chapters": 14,
+      "verses": 197,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 29,
+      "id": "JOL",
+      "name_ko": "요엘",
+      "testament": "OT",
+      "chapters": 3,
+      "verses": 73,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 30,
+      "id": "AMO",
+      "name_ko": "아모스",
+      "testament": "OT",
+      "chapters": 9,
+      "verses": 146,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 31,
+      "id": "OBA",
+      "name_ko": "오바댜",
+      "testament": "OT",
+      "chapters": 1,
+      "verses": 21,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 32,
+      "id": "JON",
+      "name_ko": "요나",
+      "testament": "OT",
+      "chapters": 4,
+      "verses": 48,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 33,
+      "id": "MIC",
+      "name_ko": "미가",
+      "testament": "OT",
+      "chapters": 7,
+      "verses": 105,
+      "high_risk_verses": 1
+    },
+    {
+      "order": 34,
+      "id": "NAM",
+      "name_ko": "나훔",
+      "testament": "OT",
+      "chapters": 3,
+      "verses": 47,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 35,
+      "id": "HAB",
+      "name_ko": "하박국",
+      "testament": "OT",
+      "chapters": 3,
+      "verses": 56,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 36,
+      "id": "ZEP",
+      "name_ko": "스바냐",
+      "testament": "OT",
+      "chapters": 3,
+      "verses": 53,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 37,
+      "id": "HAG",
+      "name_ko": "학개",
+      "testament": "OT",
+      "chapters": 2,
+      "verses": 38,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 38,
+      "id": "ZEC",
+      "name_ko": "스가랴",
+      "testament": "OT",
+      "chapters": 14,
+      "verses": 210,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 39,
+      "id": "MAL",
+      "name_ko": "말라기",
+      "testament": "OT",
+      "chapters": 4,
+      "verses": 55,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 40,
+      "id": "MAT",
+      "name_ko": "마태복음",
+      "testament": "NT",
+      "chapters": 28,
+      "verses": 1068,
+      "high_risk_verses": 20
+    },
+    {
+      "order": 41,
+      "id": "MRK",
+      "name_ko": "마가복음",
+      "testament": "NT",
+      "chapters": 16,
+      "verses": 673,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 42,
+      "id": "LUK",
+      "name_ko": "누가복음",
+      "testament": "NT",
+      "chapters": 24,
+      "verses": 1149,
+      "high_risk_verses": 1
+    },
+    {
+      "order": 43,
+      "id": "JHN",
+      "name_ko": "요한복음",
+      "testament": "NT",
+      "chapters": 21,
+      "verses": 878,
+      "high_risk_verses": 10
+    },
+    {
+      "order": 44,
+      "id": "ACT",
+      "name_ko": "사도행전",
+      "testament": "NT",
+      "chapters": 28,
+      "verses": 1003,
+      "high_risk_verses": 1
+    },
+    {
+      "order": 45,
+      "id": "ROM",
+      "name_ko": "로마서",
+      "testament": "NT",
+      "chapters": 16,
+      "verses": 432,
+      "high_risk_verses": 5
+    },
+    {
+      "order": 46,
+      "id": "1CO",
+      "name_ko": "고린도전서",
+      "testament": "NT",
+      "chapters": 16,
+      "verses": 437,
+      "high_risk_verses": 13
+    },
+    {
+      "order": 47,
+      "id": "2CO",
+      "name_ko": "고린도후서",
+      "testament": "NT",
+      "chapters": 13,
+      "verses": 257,
+      "high_risk_verses": 1
+    },
+    {
+      "order": 48,
+      "id": "GAL",
+      "name_ko": "갈라디아서",
+      "testament": "NT",
+      "chapters": 6,
+      "verses": 149,
+      "high_risk_verses": 3
+    },
+    {
+      "order": 49,
+      "id": "EPH",
+      "name_ko": "에베소서",
+      "testament": "NT",
+      "chapters": 6,
+      "verses": 155,
+      "high_risk_verses": 2
+    },
+    {
+      "order": 50,
+      "id": "PHP",
+      "name_ko": "빌립보서",
+      "testament": "NT",
+      "chapters": 4,
+      "verses": 104,
+      "high_risk_verses": 3
+    },
+    {
+      "order": 51,
+      "id": "COL",
+      "name_ko": "골로새서",
+      "testament": "NT",
+      "chapters": 4,
+      "verses": 95,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 52,
+      "id": "1TH",
+      "name_ko": "데살로니가전서",
+      "testament": "NT",
+      "chapters": 5,
+      "verses": 89,
+      "high_risk_verses": 3
+    },
+    {
+      "order": 53,
+      "id": "2TH",
+      "name_ko": "데살로니가후서",
+      "testament": "NT",
+      "chapters": 3,
+      "verses": 47,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 54,
+      "id": "1TI",
+      "name_ko": "디모데전서",
+      "testament": "NT",
+      "chapters": 6,
+      "verses": 113,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 55,
+      "id": "2TI",
+      "name_ko": "디모데후서",
+      "testament": "NT",
+      "chapters": 4,
+      "verses": 83,
+      "high_risk_verses": 1
+    },
+    {
+      "order": 56,
+      "id": "TIT",
+      "name_ko": "디도서",
+      "testament": "NT",
+      "chapters": 3,
+      "verses": 46,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 57,
+      "id": "PHM",
+      "name_ko": "빌레몬서",
+      "testament": "NT",
+      "chapters": 1,
+      "verses": 25,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 58,
+      "id": "HEB",
+      "name_ko": "히브리서",
+      "testament": "NT",
+      "chapters": 13,
+      "verses": 303,
+      "high_risk_verses": 1
+    },
+    {
+      "order": 59,
+      "id": "JAS",
+      "name_ko": "야고보서",
+      "testament": "NT",
+      "chapters": 5,
+      "verses": 108,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 60,
+      "id": "1PE",
+      "name_ko": "베드로전서",
+      "testament": "NT",
+      "chapters": 5,
+      "verses": 105,
+      "high_risk_verses": 1
+    },
+    {
+      "order": 61,
+      "id": "2PE",
+      "name_ko": "베드로후서",
+      "testament": "NT",
+      "chapters": 3,
+      "verses": 61,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 62,
+      "id": "1JN",
+      "name_ko": "요한일서",
+      "testament": "NT",
+      "chapters": 5,
+      "verses": 105,
+      "high_risk_verses": 1
+    },
+    {
+      "order": 63,
+      "id": "2JN",
+      "name_ko": "요한이서",
+      "testament": "NT",
+      "chapters": 1,
+      "verses": 13,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 64,
+      "id": "3JN",
+      "name_ko": "요한삼서",
+      "testament": "NT",
+      "chapters": 1,
+      "verses": 14,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 65,
+      "id": "JUD",
+      "name_ko": "유다서",
+      "testament": "NT",
+      "chapters": 1,
+      "verses": 25,
+      "high_risk_verses": 0
+    },
+    {
+      "order": 66,
+      "id": "REV",
+      "name_ko": "요한계시록",
+      "testament": "NT",
+      "chapters": 22,
+      "verses": 404,
+      "high_risk_verses": 2
+    }
+  ]
+}

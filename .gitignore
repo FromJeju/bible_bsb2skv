@@ -27,6 +27,7 @@ node_modules/
 .env.local
 *.log
 
-# Temporary files
+# Temporary & generated intermediate files
 tmp/
 temp/
+work/bsb/
