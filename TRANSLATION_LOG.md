@@ -283,3 +283,7 @@
 - 대상: `work/skv/23_ISA.json` 57~66장 (이사야 1~66장 전체 완료)
 - 검증 및 빌드: `python3 scripts/build_and_validate.py --book ISA --chapter 57..66` 및 `--book ISA` 통과 (`output/json/23_ISA.json`, `output/xml/23_ISA.xml` 생성)
 - 비고: `ISA 44:6, 44:8`의 'no God besides Me' 문맥상 '신' 번역에 대한 용어집 경고 2건 유지
+
+### 2026-11-26: 예레미야(JER) 1~6장 번역
+- 대상: `work/skv/24_JER.json` 1~6장
+- 검증: `python3 scripts/build_and_validate.py --book JER --chapter 1..6` 통과
