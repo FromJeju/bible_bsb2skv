@@ -359,3 +359,7 @@
 ### 2026-11-26: 예레미야애가(LAM) 1~5장 번역 및 전체 빌드 완료
 - 대상: `work/skv/25_LAM.json` 1~5장 (예레미야애가 전체 완료)
 - 검증 및 빌드: `python3 scripts/build_and_validate.py --book LAM --chapter 1..5` 및 `--book LAM` 통과 (`output/json/25_LAM.json`, `output/xml/25_LAM.xml` 생성)
+
+### 2026-11-26: 에스겔(EZK) 1~6장 번역
+- 대상: `work/skv/26_EZK.json` 1~6장
+- 검증: `python3 scripts/build_and_validate.py --book EZK --chapter 1..6` 통과
