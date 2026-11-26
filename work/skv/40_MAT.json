@@ -1,0 +1,4793 @@
+{
+  "id": "MAT",
+  "order": 40,
+  "name": "마태복음",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "예수님의 족보",
+          "text": "다윗의 자손이자 아브라함의 자손인 예수 그리스도의 족보 기록은 이러하다."
+        },
+        {
+          "verse": 2,
+          "text": "아브라함은 이삭의 아버지이고,\n이삭은 야곱의 아버지이며,\n야곱은 유다와 그의 형제들의 아버지이다."
+        },
+        {
+          "verse": 3,
+          "text": "유다는 다말에게서 베레스와 세라를 낳아 그 아버지가 되었고,\n베레스는 헤스론의 아버지이며,\n헤스론은 람의 아버지이다.",
+          "footnotes": [
+            "그리스어로는 ‘아람(Aram)’으로, ‘람(Ram)’의 다른 표기이다. 4절에서도 같다. 역대상 2:9–10 참고."
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "람은 아미나답의 아버지이고,\n아미나답은 나손의 아버지이며,\n나손은 살몬의 아버지이다."
+        },
+        {
+          "verse": 5,
+          "text": "살몬은 라합에게서 보아스를 낳아 그 아버지가 되었고,\n보아스는 룻에게서 오벳을 낳아 그 아버지가 되었으며,\n오벳은 이새의 아버지이다."
+        },
+        {
+          "verse": 6,
+          "text": "이새는 다윗 왕의 아버지이다.\n이어서:\n다윗은 우리야의 아내에게서 솔로몬을 낳아 그 아버지가 되었고,"
+        },
+        {
+          "verse": 7,
+          "text": "솔로몬은 르호보암의 아버지이고,\n르호보암은 아비야의 아버지이며,\n아비야는 아사의 아버지이다.",
+          "footnotes": [
+            "그리스어로는 ‘아삽(Asaph)’으로, ‘아사(Asa)’의 다른 표기이다. 8절에서도 같다. 역대상 3:10 참고."
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "아사는 여호사밧의 아버지이고,\n여호사밧은 요람의 아버지이며,\n요람은 웃시야의 아버지이다."
+        },
+        {
+          "verse": 9,
+          "text": "웃시야는 요담의 아버지이고,\n요담은 아하스의 아버지이며,\n아하스는 히스기야의 아버지이다."
+        },
+        {
+          "verse": 10,
+          "text": "히스기야는 므낫세의 아버지이고,\n므낫세는 아몬의 아버지이며,\n아몬은 요시야의 아버지이다.",
+          "footnotes": [
+            "그리스어로는 ‘아모스(Amōs)’로, ‘아몬(Amon)’의 다른 철자이다. 이 절에 두 번 나온다. 역대상 3:14 참고."
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "요시야는 바빌론으로 끌려가던 시기에\n여고냐와 그의 형제들의 아버지가 되었다."
+        },
+        {
+          "verse": 12,
+          "text": "바빌론으로 끌려간 뒤에:\n여고냐는 스알디엘의 아버지이고,\n스알디엘은 스룹바벨의 아버지이다."
+        },
+        {
+          "verse": 13,
+          "text": "스룹바벨은 아비훗의 아버지이고,\n아비훗은 엘리아김의 아버지이며,\n엘리아김은 아소르의 아버지이다."
+        },
+        {
+          "verse": 14,
+          "text": "아소르는 사독의 아버지이고,\n사독은 아킴의 아버지이며,\n아킴은 엘리웃의 아버지이다."
+        },
+        {
+          "verse": 15,
+          "text": "엘리웃은 엘르아살의 아버지이고,\n엘르아살은 맛단의 아버지이며,\n맛단은 야곱의 아버지이다."
+        },
+        {
+          "verse": 16,
+          "text": "야곱은 마리아의 남편 요셉의 아버지이며,\n마리아에게서 그리스도라 불리는 예수님이 태어나셨다."
+        },
+        {
+          "verse": 17,
+          "text": "그러므로 아브라함부터 다윗까지 모두 14대이고, 다윗부터 바빌론으로 끌려갈 때까지 14대이며, 바빌론으로 끌려간 때부터 그리스도까지도 14대이다."
+        },
+        {
+          "verse": 18,
+          "heading": "예수님의 탄생",
+          "text": "예수 그리스도께서 태어나신 일은 이러하다. 그분의 어머니 마리아는 요셉과 결혼하기로 약속한 사이였는데, 두 사람이 함께 살기 전에 성령으로 임신한 것이 드러났다."
+        },
+        {
+          "verse": 19,
+          "text": "마리아의 남편 요셉은 올바른 사람이어서 마리아를 공개적으로 망신 주고 싶지 않았기 때문에, 조용히 파혼하기로 마음먹었다."
+        },
+        {
+          "verse": 20,
+          "text": "요셉이 이 일을 깊이 생각하고 있을 때, 주의 천사가 꿈에 나타나 말했다. “다윗의 자손 요셉아, 마리아를 아내로 맞이하는 것을 두려워하지 마라. 그에게 임신된 아기는 성령으로 된 것이다."
+        },
+        {
+          "verse": 21,
+          "text": "마리아가 아들을 낳을 것이니, 너는 그의 이름을 예수라고 지어라. 그가 자기 백성을 그들의 죄에서 구원할 것이기 때문이다.”",
+          "footnotes": [
+            "‘예수(Jesus)’는 ‘주께서 구원하신다’라는 뜻이다."
+          ]
+        },
+        {
+          "verse": 22,
+          "text": "이 모든 일은 주께서 예언자를 통해 하신 말씀을 이루려고 일어난 것이다."
+        },
+        {
+          "verse": 23,
+          "text": "“보라, 처녀가 임신하여\n아들을 낳을 것이며,\n사람들이 그를 임마누엘이라 부를 것이다.”\n(‘임마누엘’은 ‘하나님이 우리와 함께 계신다’라는 뜻이다.)",
+          "footnotes": [
+            "직역하면 ‘그들이 그의 이름을 임마누엘이라 부를 것이다’. 이사야 7:14(사해 사본도 참고).",
+            "이사야 7:14, 이사야 8:8, 이사야 8:10 참고."
+          ]
+        },
+        {
+          "verse": 24,
+          "text": "요셉은 잠에서 깨어나 주의 천사가 명령한 대로 마리아를 아내로 맞이했다."
+        },
+        {
+          "verse": 25,
+          "text": "그러나 아들을 낳을 때까지는 마리아와 잠자리를 같이하지 않았다. 그리고 아기가 태어나자 이름을 예수라고 지었다.",
+          "footnotes": [
+            "직역하면 ‘그녀를 알지 않았다’"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 16,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 19,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": "",
+          "footnotes": [
+            "",
+            ""
+          ]
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "text": "",
+          "footnotes": [
+            "",
+            ""
+          ]
+        },
+        {
+          "verse": 17,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "text": ""
+        },
+        {
+          "verse": 25,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "text": ""
+        },
+        {
+          "verse": 25,
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 28,
+          "text": ""
+        },
+        {
+          "verse": 29,
+          "text": ""
+        },
+        {
+          "verse": 30,
+          "text": ""
+        },
+        {
+          "verse": 31,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 32,
+          "text": ""
+        },
+        {
+          "verse": 33,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 34,
+          "text": ""
+        },
+        {
+          "verse": 35,
+          "text": ""
+        },
+        {
+          "verse": 36,
+          "text": ""
+        },
+        {
+          "verse": 37,
+          "text": ""
+        },
+        {
+          "verse": 38,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 39,
+          "text": ""
+        },
+        {
+          "verse": 40,
+          "text": ""
+        },
+        {
+          "verse": 41,
+          "text": ""
+        },
+        {
+          "verse": 42,
+          "text": ""
+        },
+        {
+          "verse": 43,
+          "text": ""
+        },
+        {
+          "verse": 44,
+          "text": ""
+        },
+        {
+          "verse": 45,
+          "text": ""
+        },
+        {
+          "verse": 46,
+          "text": ""
+        },
+        {
+          "verse": 47,
+          "text": ""
+        },
+        {
+          "verse": 48,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "text": ""
+        },
+        {
+          "verse": 25,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "text": ""
+        },
+        {
+          "verse": 28,
+          "text": ""
+        },
+        {
+          "verse": 29,
+          "text": ""
+        },
+        {
+          "verse": 30,
+          "text": ""
+        },
+        {
+          "verse": 31,
+          "text": ""
+        },
+        {
+          "verse": 32,
+          "text": ""
+        },
+        {
+          "verse": 33,
+          "text": ""
+        },
+        {
+          "verse": 34,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 25,
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "text": ""
+        },
+        {
+          "verse": 28,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 29,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 18,
+          "heading": "",
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 19,
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "text": ""
+        },
+        {
+          "verse": 25,
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "text": ""
+        },
+        {
+          "verse": 28,
+          "heading": "",
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 29,
+          "text": ""
+        },
+        {
+          "verse": 30,
+          "text": ""
+        },
+        {
+          "verse": 31,
+          "text": ""
+        },
+        {
+          "verse": 32,
+          "text": ""
+        },
+        {
+          "verse": 33,
+          "text": ""
+        },
+        {
+          "verse": 34,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 5,
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "heading": "",
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 15,
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "text": ""
+        },
+        {
+          "verse": 25,
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 28,
+          "text": ""
+        },
+        {
+          "verse": 29,
+          "text": ""
+        },
+        {
+          "verse": 30,
+          "text": ""
+        },
+        {
+          "verse": 31,
+          "text": ""
+        },
+        {
+          "verse": 32,
+          "text": ""
+        },
+        {
+          "verse": 33,
+          "text": ""
+        },
+        {
+          "verse": 34,
+          "text": ""
+        },
+        {
+          "verse": 35,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 36,
+          "text": ""
+        },
+        {
+          "verse": 37,
+          "text": ""
+        },
+        {
+          "verse": 38,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": "",
+          "footnotes": [
+            "",
+            ""
+          ]
+        },
+        {
+          "verse": 5,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "text": ""
+        },
+        {
+          "verse": 25,
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "text": ""
+        },
+        {
+          "verse": 28,
+          "text": ""
+        },
+        {
+          "verse": 29,
+          "text": ""
+        },
+        {
+          "verse": 30,
+          "text": ""
+        },
+        {
+          "verse": 31,
+          "text": ""
+        },
+        {
+          "verse": 32,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 33,
+          "text": ""
+        },
+        {
+          "verse": 34,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 35,
+          "text": ""
+        },
+        {
+          "verse": 36,
+          "text": ""
+        },
+        {
+          "verse": 37,
+          "text": ""
+        },
+        {
+          "verse": 38,
+          "text": ""
+        },
+        {
+          "verse": 39,
+          "text": ""
+        },
+        {
+          "verse": 40,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 41,
+          "text": ""
+        },
+        {
+          "verse": 42,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "text": ""
+        },
+        {
+          "verse": 25,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "text": ""
+        },
+        {
+          "verse": 28,
+          "text": ""
+        },
+        {
+          "verse": 29,
+          "text": ""
+        },
+        {
+          "verse": 30,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 22,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 25,
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "text": ""
+        },
+        {
+          "verse": 28,
+          "text": ""
+        },
+        {
+          "verse": 29,
+          "text": ""
+        },
+        {
+          "verse": 30,
+          "text": ""
+        },
+        {
+          "verse": 31,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 32,
+          "text": ""
+        },
+        {
+          "verse": 33,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 34,
+          "text": ""
+        },
+        {
+          "verse": 35,
+          "text": ""
+        },
+        {
+          "verse": 36,
+          "text": ""
+        },
+        {
+          "verse": 37,
+          "text": ""
+        },
+        {
+          "verse": 38,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 39,
+          "text": ""
+        },
+        {
+          "verse": 40,
+          "text": ""
+        },
+        {
+          "verse": 41,
+          "text": ""
+        },
+        {
+          "verse": 42,
+          "text": ""
+        },
+        {
+          "verse": 43,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 44,
+          "text": ""
+        },
+        {
+          "verse": 45,
+          "text": ""
+        },
+        {
+          "verse": 46,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 47,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 48,
+          "text": ""
+        },
+        {
+          "verse": 49,
+          "text": ""
+        },
+        {
+          "verse": 50,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 25,
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "text": ""
+        },
+        {
+          "verse": 28,
+          "text": ""
+        },
+        {
+          "verse": 29,
+          "text": ""
+        },
+        {
+          "verse": 30,
+          "text": ""
+        },
+        {
+          "verse": 31,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 32,
+          "text": ""
+        },
+        {
+          "verse": 33,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 34,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 35,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 36,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 37,
+          "text": ""
+        },
+        {
+          "verse": 38,
+          "text": ""
+        },
+        {
+          "verse": 39,
+          "text": ""
+        },
+        {
+          "verse": 40,
+          "text": ""
+        },
+        {
+          "verse": 41,
+          "text": ""
+        },
+        {
+          "verse": 42,
+          "text": ""
+        },
+        {
+          "verse": 43,
+          "text": ""
+        },
+        {
+          "verse": 44,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 45,
+          "text": ""
+        },
+        {
+          "verse": 46,
+          "text": ""
+        },
+        {
+          "verse": 47,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 48,
+          "text": ""
+        },
+        {
+          "verse": 49,
+          "text": ""
+        },
+        {
+          "verse": 50,
+          "text": ""
+        },
+        {
+          "verse": 51,
+          "text": ""
+        },
+        {
+          "verse": 52,
+          "text": ""
+        },
+        {
+          "verse": 53,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 54,
+          "text": ""
+        },
+        {
+          "verse": 55,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 56,
+          "text": ""
+        },
+        {
+          "verse": 57,
+          "text": ""
+        },
+        {
+          "verse": 58,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 25,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 26,
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "text": ""
+        },
+        {
+          "verse": 28,
+          "text": ""
+        },
+        {
+          "verse": 29,
+          "text": ""
+        },
+        {
+          "verse": 30,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 31,
+          "text": ""
+        },
+        {
+          "verse": 32,
+          "text": ""
+        },
+        {
+          "verse": 33,
+          "text": ""
+        },
+        {
+          "verse": 34,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 35,
+          "text": ""
+        },
+        {
+          "verse": 36,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "text": ""
+        },
+        {
+          "verse": 25,
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 28,
+          "text": ""
+        },
+        {
+          "verse": 29,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 30,
+          "text": ""
+        },
+        {
+          "verse": 31,
+          "text": ""
+        },
+        {
+          "verse": 32,
+          "text": ""
+        },
+        {
+          "verse": 33,
+          "text": ""
+        },
+        {
+          "verse": 34,
+          "text": ""
+        },
+        {
+          "verse": 35,
+          "text": ""
+        },
+        {
+          "verse": 36,
+          "text": ""
+        },
+        {
+          "verse": 37,
+          "text": ""
+        },
+        {
+          "verse": 38,
+          "text": ""
+        },
+        {
+          "verse": 39,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "heading": "",
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 22,
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 25,
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "text": ""
+        },
+        {
+          "verse": 28,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 6,
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 22,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "heading": "",
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 25,
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 23,
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "text": ""
+        },
+        {
+          "verse": 25,
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "text": ""
+        },
+        {
+          "verse": 28,
+          "text": ""
+        },
+        {
+          "verse": 29,
+          "text": ""
+        },
+        {
+          "verse": 30,
+          "text": ""
+        },
+        {
+          "verse": 31,
+          "text": ""
+        },
+        {
+          "verse": 32,
+          "text": ""
+        },
+        {
+          "verse": 33,
+          "text": ""
+        },
+        {
+          "verse": 34,
+          "text": ""
+        },
+        {
+          "verse": 35,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "text": ""
+        },
+        {
+          "verse": 25,
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "text": ""
+        },
+        {
+          "verse": 28,
+          "text": ""
+        },
+        {
+          "verse": 29,
+          "text": ""
+        },
+        {
+          "verse": 30,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 17,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 23,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 24,
+          "text": ""
+        },
+        {
+          "verse": 25,
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "text": ""
+        },
+        {
+          "verse": 28,
+          "text": ""
+        },
+        {
+          "verse": 29,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 30,
+          "text": ""
+        },
+        {
+          "verse": 31,
+          "text": ""
+        },
+        {
+          "verse": 32,
+          "text": ""
+        },
+        {
+          "verse": 33,
+          "text": ""
+        },
+        {
+          "verse": 34,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 6,
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": "",
+          "footnotes": [
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "heading": "",
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 13,
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "text": ""
+        },
+        {
+          "verse": 25,
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "text": ""
+        },
+        {
+          "verse": 28,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 29,
+          "text": ""
+        },
+        {
+          "verse": 30,
+          "text": ""
+        },
+        {
+          "verse": 31,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 32,
+          "text": ""
+        },
+        {
+          "verse": 33,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 34,
+          "text": ""
+        },
+        {
+          "verse": 35,
+          "text": ""
+        },
+        {
+          "verse": 36,
+          "text": ""
+        },
+        {
+          "verse": 37,
+          "text": ""
+        },
+        {
+          "verse": 38,
+          "text": ""
+        },
+        {
+          "verse": 39,
+          "text": ""
+        },
+        {
+          "verse": 40,
+          "text": ""
+        },
+        {
+          "verse": 41,
+          "text": ""
+        },
+        {
+          "verse": 42,
+          "text": ""
+        },
+        {
+          "verse": 43,
+          "text": ""
+        },
+        {
+          "verse": 44,
+          "text": ""
+        },
+        {
+          "verse": 45,
+          "text": ""
+        },
+        {
+          "verse": 46,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 20,
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 25,
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "text": ""
+        },
+        {
+          "verse": 28,
+          "text": ""
+        },
+        {
+          "verse": 29,
+          "text": ""
+        },
+        {
+          "verse": 30,
+          "text": ""
+        },
+        {
+          "verse": 31,
+          "text": ""
+        },
+        {
+          "verse": 32,
+          "text": ""
+        },
+        {
+          "verse": 33,
+          "text": ""
+        },
+        {
+          "verse": 34,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 35,
+          "text": ""
+        },
+        {
+          "verse": 36,
+          "text": ""
+        },
+        {
+          "verse": 37,
+          "text": ""
+        },
+        {
+          "verse": 38,
+          "text": ""
+        },
+        {
+          "verse": 39,
+          "text": ""
+        },
+        {
+          "verse": 40,
+          "text": ""
+        },
+        {
+          "verse": 41,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 42,
+          "text": ""
+        },
+        {
+          "verse": 43,
+          "text": ""
+        },
+        {
+          "verse": 44,
+          "text": ""
+        },
+        {
+          "verse": 45,
+          "text": ""
+        },
+        {
+          "verse": 46,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "text": ""
+        },
+        {
+          "verse": 25,
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "text": ""
+        },
+        {
+          "verse": 28,
+          "text": ""
+        },
+        {
+          "verse": 29,
+          "text": ""
+        },
+        {
+          "verse": 30,
+          "text": ""
+        },
+        {
+          "verse": 31,
+          "text": ""
+        },
+        {
+          "verse": 32,
+          "text": ""
+        },
+        {
+          "verse": 33,
+          "text": ""
+        },
+        {
+          "verse": 34,
+          "text": ""
+        },
+        {
+          "verse": 35,
+          "text": ""
+        },
+        {
+          "verse": 36,
+          "text": ""
+        },
+        {
+          "verse": 37,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 38,
+          "text": ""
+        },
+        {
+          "verse": 39,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "text": ""
+        },
+        {
+          "verse": 25,
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "text": ""
+        },
+        {
+          "verse": 28,
+          "text": ""
+        },
+        {
+          "verse": 29,
+          "text": ""
+        },
+        {
+          "verse": 30,
+          "text": ""
+        },
+        {
+          "verse": 31,
+          "text": ""
+        },
+        {
+          "verse": 32,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 33,
+          "text": ""
+        },
+        {
+          "verse": 34,
+          "text": ""
+        },
+        {
+          "verse": 35,
+          "text": ""
+        },
+        {
+          "verse": 36,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 37,
+          "text": ""
+        },
+        {
+          "verse": 38,
+          "text": ""
+        },
+        {
+          "verse": 39,
+          "text": ""
+        },
+        {
+          "verse": 40,
+          "text": ""
+        },
+        {
+          "verse": 41,
+          "text": ""
+        },
+        {
+          "verse": 42,
+          "text": ""
+        },
+        {
+          "verse": 43,
+          "text": ""
+        },
+        {
+          "verse": 44,
+          "text": ""
+        },
+        {
+          "verse": 45,
+          "text": ""
+        },
+        {
+          "verse": 46,
+          "text": ""
+        },
+        {
+          "verse": 47,
+          "text": ""
+        },
+        {
+          "verse": 48,
+          "text": ""
+        },
+        {
+          "verse": 49,
+          "text": ""
+        },
+        {
+          "verse": 50,
+          "text": ""
+        },
+        {
+          "verse": 51,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "text": ""
+        },
+        {
+          "verse": 25,
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "text": ""
+        },
+        {
+          "verse": 28,
+          "text": ""
+        },
+        {
+          "verse": 29,
+          "text": ""
+        },
+        {
+          "verse": 30,
+          "text": ""
+        },
+        {
+          "verse": 31,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 32,
+          "text": ""
+        },
+        {
+          "verse": 33,
+          "text": ""
+        },
+        {
+          "verse": 34,
+          "text": ""
+        },
+        {
+          "verse": 35,
+          "text": ""
+        },
+        {
+          "verse": 36,
+          "text": ""
+        },
+        {
+          "verse": 37,
+          "text": ""
+        },
+        {
+          "verse": 38,
+          "text": ""
+        },
+        {
+          "verse": 39,
+          "text": ""
+        },
+        {
+          "verse": 40,
+          "text": ""
+        },
+        {
+          "verse": 41,
+          "text": ""
+        },
+        {
+          "verse": 42,
+          "text": ""
+        },
+        {
+          "verse": 43,
+          "text": ""
+        },
+        {
+          "verse": 44,
+          "text": ""
+        },
+        {
+          "verse": 45,
+          "text": ""
+        },
+        {
+          "verse": 46,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "heading": "",
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "heading": "",
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 18,
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "heading": "",
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 21,
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "text": ""
+        },
+        {
+          "verse": 25,
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "text": ""
+        },
+        {
+          "verse": 28,
+          "text": ""
+        },
+        {
+          "verse": 29,
+          "text": ""
+        },
+        {
+          "verse": 30,
+          "text": ""
+        },
+        {
+          "verse": 31,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 32,
+          "text": ""
+        },
+        {
+          "verse": 33,
+          "text": ""
+        },
+        {
+          "verse": 34,
+          "text": ""
+        },
+        {
+          "verse": 35,
+          "text": ""
+        },
+        {
+          "verse": 36,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 37,
+          "text": ""
+        },
+        {
+          "verse": 38,
+          "text": ""
+        },
+        {
+          "verse": 39,
+          "text": ""
+        },
+        {
+          "verse": 40,
+          "text": ""
+        },
+        {
+          "verse": 41,
+          "text": ""
+        },
+        {
+          "verse": 42,
+          "text": ""
+        },
+        {
+          "verse": 43,
+          "text": ""
+        },
+        {
+          "verse": 44,
+          "text": ""
+        },
+        {
+          "verse": 45,
+          "text": ""
+        },
+        {
+          "verse": 46,
+          "text": ""
+        },
+        {
+          "verse": 47,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 48,
+          "text": ""
+        },
+        {
+          "verse": 49,
+          "text": ""
+        },
+        {
+          "verse": 50,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 51,
+          "text": ""
+        },
+        {
+          "verse": 52,
+          "text": ""
+        },
+        {
+          "verse": 53,
+          "text": ""
+        },
+        {
+          "verse": 54,
+          "text": ""
+        },
+        {
+          "verse": 55,
+          "text": ""
+        },
+        {
+          "verse": 56,
+          "text": ""
+        },
+        {
+          "verse": 57,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 58,
+          "text": ""
+        },
+        {
+          "verse": 59,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 60,
+          "text": ""
+        },
+        {
+          "verse": 61,
+          "text": ""
+        },
+        {
+          "verse": 62,
+          "text": ""
+        },
+        {
+          "verse": 63,
+          "text": ""
+        },
+        {
+          "verse": 64,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 65,
+          "text": ""
+        },
+        {
+          "verse": 66,
+          "text": ""
+        },
+        {
+          "verse": 67,
+          "text": ""
+        },
+        {
+          "verse": 68,
+          "text": ""
+        },
+        {
+          "verse": 69,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 70,
+          "text": ""
+        },
+        {
+          "verse": 71,
+          "text": ""
+        },
+        {
+          "verse": 72,
+          "text": ""
+        },
+        {
+          "verse": 73,
+          "text": ""
+        },
+        {
+          "verse": 74,
+          "text": ""
+        },
+        {
+          "verse": 75,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": ""
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": ""
+        },
+        {
+          "verse": 10,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 11,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": ""
+        },
+        {
+          "verse": 21,
+          "text": ""
+        },
+        {
+          "verse": 22,
+          "text": ""
+        },
+        {
+          "verse": 23,
+          "text": ""
+        },
+        {
+          "verse": 24,
+          "heading": "",
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 25,
+          "text": ""
+        },
+        {
+          "verse": 26,
+          "text": ""
+        },
+        {
+          "verse": 27,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 28,
+          "text": ""
+        },
+        {
+          "verse": 29,
+          "text": ""
+        },
+        {
+          "verse": 30,
+          "text": ""
+        },
+        {
+          "verse": 31,
+          "text": ""
+        },
+        {
+          "verse": 32,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 33,
+          "text": ""
+        },
+        {
+          "verse": 34,
+          "text": ""
+        },
+        {
+          "verse": 35,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 36,
+          "text": ""
+        },
+        {
+          "verse": 37,
+          "text": ""
+        },
+        {
+          "verse": 38,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 39,
+          "text": ""
+        },
+        {
+          "verse": 40,
+          "text": ""
+        },
+        {
+          "verse": 41,
+          "text": ""
+        },
+        {
+          "verse": 42,
+          "text": ""
+        },
+        {
+          "verse": 43,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 44,
+          "text": ""
+        },
+        {
+          "verse": 45,
+          "heading": "",
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 46,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 47,
+          "text": ""
+        },
+        {
+          "verse": 48,
+          "text": "",
+          "footnotes": [
+            "",
+            ""
+          ]
+        },
+        {
+          "verse": 49,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 50,
+          "text": ""
+        },
+        {
+          "verse": 51,
+          "text": ""
+        },
+        {
+          "verse": 52,
+          "text": ""
+        },
+        {
+          "verse": 53,
+          "text": ""
+        },
+        {
+          "verse": 54,
+          "text": ""
+        },
+        {
+          "verse": 55,
+          "text": ""
+        },
+        {
+          "verse": 56,
+          "text": ""
+        },
+        {
+          "verse": 57,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 58,
+          "text": ""
+        },
+        {
+          "verse": 59,
+          "text": ""
+        },
+        {
+          "verse": 60,
+          "text": ""
+        },
+        {
+          "verse": 61,
+          "text": ""
+        },
+        {
+          "verse": 62,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 63,
+          "text": ""
+        },
+        {
+          "verse": 64,
+          "text": ""
+        },
+        {
+          "verse": 65,
+          "text": ""
+        },
+        {
+          "verse": 66,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "verse": 1,
+          "heading": "",
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 2,
+          "text": ""
+        },
+        {
+          "verse": 3,
+          "text": ""
+        },
+        {
+          "verse": 4,
+          "text": ""
+        },
+        {
+          "verse": 5,
+          "text": ""
+        },
+        {
+          "verse": 6,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 7,
+          "text": ""
+        },
+        {
+          "verse": 8,
+          "text": ""
+        },
+        {
+          "verse": 9,
+          "text": "",
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "verse": 10,
+          "text": ""
+        },
+        {
+          "verse": 11,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 12,
+          "text": ""
+        },
+        {
+          "verse": 13,
+          "text": ""
+        },
+        {
+          "verse": 14,
+          "text": ""
+        },
+        {
+          "verse": 15,
+          "text": ""
+        },
+        {
+          "verse": 16,
+          "heading": "",
+          "text": ""
+        },
+        {
+          "verse": 17,
+          "text": ""
+        },
+        {
+          "verse": 18,
+          "text": ""
+        },
+        {
+          "verse": 19,
+          "text": ""
+        },
+        {
+          "verse": 20,
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

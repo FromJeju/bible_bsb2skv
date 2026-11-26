@@ -85,7 +85,7 @@ def init_template(book_id: str) -> None:
     print(f"Created translation template: {out_file}")
 
 
-def validate_book(bsb: dict, skv: dict, glossary: list[dict]) -> tuple[list[str], list[str]]:
+def validate_book(bsb: dict, skv: dict, glossary: list[dict], only_chapter: int | None = None) -> tuple[list[str], list[str]]:
     errors = []
     warnings = []
     book_id = bsb["id"]
@@ -93,7 +93,16 @@ def validate_book(bsb: dict, skv: dict, glossary: list[dict]) -> tuple[list[str]
     bsb_chapters = {c["chapter"]: c["verses"] for c in bsb["chapters"]}
     skv_chapters = {c["chapter"]: c["verses"] for c in skv.get("chapters", [])}
 
-    if set(bsb_chapters.keys()) != set(skv_chapters.keys()):
+    if only_chapter is not None:
+        if only_chapter not in bsb_chapters:
+            errors.append(f"[{book_id}] 원문에 {only_chapter}장이 없음")
+            return errors, warnings
+        if only_chapter not in skv_chapters:
+            errors.append(f"[{book_id}] 번역본에 {only_chapter}장이 없음")
+            return errors, warnings
+        bsb_chapters = {only_chapter: bsb_chapters[only_chapter]}
+        skv_chapters = {only_chapter: skv_chapters[only_chapter]}
+    elif set(bsb_chapters.keys()) != set(skv_chapters.keys()):
         missing = sorted(set(bsb_chapters) - set(skv_chapters))
         extra = sorted(set(skv_chapters) - set(bsb_chapters))
         if missing:
@@ -247,6 +256,7 @@ def main():
     parser = argparse.ArgumentParser(description="Validate SKV translations and build JSON/XML outputs.")
     parser.add_argument("--init-template", metavar="BOOK", help="Create empty SKV translation template for BOOK (e.g. JHN)")
     parser.add_argument("--book", metavar="BOOK", help="Validate and build a single book (e.g. JHN)")
+    parser.add_argument("--chapter", type=int, metavar="CH", help="Validate only chapter CH (for in-progress books)")
     parser.add_argument("--all", action="store_true", help="Validate and build all books present in work/skv/")
     parser.add_argument("--combined", action="store_true", help="Also write combined skv_bible.json and skv_bible.xml")
     parser.add_argument("--version", default="0.1.0", help="Metadata version string")
@@ -285,10 +295,10 @@ def main():
         with bsb_path.open(encoding="utf-8") as f:
             bsb = json.load(f)
 
-        errs, warns = validate_book(bsb, skv, glossary)
+        errs, warns = validate_book(bsb, skv, glossary, only_chapter=args.chapter)
         all_errors.extend(errs)
         all_warnings.extend(warns)
-        if not errs:
+        if not errs and args.chapter is None:
             books_clean.append(clean_book_for_output(skv))
 
     for w in all_warnings:
@@ -298,6 +308,10 @@ def main():
 
     if all_errors:
         sys.exit(f"\nValidation failed with {len(all_errors)} error(s).")
+
+    if args.chapter is not None:
+        print(f"Validated chapter {args.chapter} of {args.book.upper()} successfully.")
+        return
 
     books_clean.sort(key=lambda x: x["order"])
     build_outputs(books_clean, version=args.version, write_combined=args.combined)
