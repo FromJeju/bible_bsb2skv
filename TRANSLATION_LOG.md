@@ -278,3 +278,8 @@
 - **ISA 48–49** (`23_ISA`): 이사야 48~49장 번역 및 장별 검증 완료 (`--chapter 48..49`)
 - **ISA 50–52** (`23_ISA`): 이사야 50~52장 번역 및 장별 검증 완료 (`--chapter 50..52`)
 - **ISA 53–56** (`23_ISA`): 이사야 53~56장 번역 및 장별 검증 완료 (`--chapter 53..56`), `HR014` (`ISA 53:5`) 분석 완료 (`analysis/ISA_053_005.md`)
+
+### 2026-11-26: 이사야(ISA) 57~66장 번역 및 전체 빌드 완료
+- 대상: `work/skv/23_ISA.json` 57~66장 (이사야 1~66장 전체 완료)
+- 검증 및 빌드: `python3 scripts/build_and_validate.py --book ISA --chapter 57..66` 및 `--book ISA` 통과 (`output/json/23_ISA.json`, `output/xml/23_ISA.xml` 생성)
+- 비고: `ISA 44:6, 44:8`의 'no God besides Me' 문맥상 '신' 번역에 대한 용어집 경고 2건 유지
