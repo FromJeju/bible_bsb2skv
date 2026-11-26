@@ -1,5 +1,5 @@
 id,book,chapter,verse_start,verse_end,category,analysis_done,status,note
-HR001,GEN,1,1,1,암송,N,대기,성경 첫 구절
+HR001,GEN,1,1,1,암송,Y,완료,analysis/GEN_001_001.md
 HR002,EXO,20,1,17,예배·교육,N,대기,십계명
 HR003,NUM,6,24,26,축복기도,N,대기,아론의 축복
 HR004,DEU,6,4,5,암송,N,대기,
