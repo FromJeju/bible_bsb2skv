@@ -447,3 +447,7 @@
 ### 2026-11-27: 호세아(HOS) 1~8장 번역
 - 대상: `work/skv/28_HOS.json` 1~8장
 - 검증: `python3 scripts/build_and_validate.py --book HOS --chapter 1..8` 통과
+
+### 2026-11-27: 호세아(HOS) 9~12장 번역
+- 대상: `work/skv/28_HOS.json` 9~12장
+- 검증: `python3 scripts/build_and_validate.py --book HOS --chapter 9..12` 통과
