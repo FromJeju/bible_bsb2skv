@@ -479,3 +479,7 @@
 ### 2026-11-27: 요나(JON) 1~4장 번역 및 요나 완역·빌드
 - 대상: `work/skv/32_JON.json` 전체(4장, 48절)
 - 검증 및 산출물: `python3 scripts/build_and_validate.py --book JON` 통과 (`output/json/32_JON.json`, `output/xml/32_JON.xml`)
+
+### 2026-11-27: 미가(MIC) 1~4장 번역
+- 대상: `work/skv/33_MIC.json` 1~4장
+- 검증: `python3 scripts/build_and_validate.py --book MIC --chapter 1..4` 통과
