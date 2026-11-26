@@ -427,3 +427,7 @@
 ### 2026-11-27: 다니엘(DAN) 1~3장 번역
 - 대상: `work/skv/27_DAN.json` 1~3장
 - 검증: `python3 scripts/build_and_validate.py --book DAN --chapter 1..3` 통과
+
+### 2026-11-27: 다니엘(DAN) 4~6장 번역
+- 대상: `work/skv/27_DAN.json` 4~6장
+- 검증: `python3 scripts/build_and_validate.py --book DAN --chapter 4..6` 통과
