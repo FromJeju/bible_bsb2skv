@@ -299,3 +299,7 @@
 ### 2026-11-26: 예레미야(JER) 17~18장 번역
 - 대상: `work/skv/24_JER.json` 17~18장
 - 검증: `python3 scripts/build_and_validate.py --book JER --chapter 17..18` 통과
+
+### 2026-11-26: 예레미야(JER) 19~21장 번역
+- 대상: `work/skv/24_JER.json` 19~21장
+- 검증: `python3 scripts/build_and_validate.py --book JER --chapter 19..21` 통과
