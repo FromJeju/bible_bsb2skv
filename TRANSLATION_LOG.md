@@ -443,3 +443,7 @@
 ### 2026-11-27: 다니엘(DAN) 11~12장 번역 및 다니엘 완역·빌드
 - 대상: `work/skv/27_DAN.json` 11~12장 및 다니엘 전체(12장, 357절)
 - 검증 및 산출물: `python3 scripts/build_and_validate.py --book DAN` 통과 (`output/json/27_DAN.json`, `output/xml/27_DAN.xml`)
+
+### 2026-11-27: 호세아(HOS) 1~8장 번역
+- 대상: `work/skv/28_HOS.json` 1~8장
+- 검증: `python3 scripts/build_and_validate.py --book HOS --chapter 1..8` 통과
