@@ -43,5 +43,5 @@ HR041,2TI,3,16,16,암송,Y,완료,analysis/2TI_003_016.md
 HR042,HEB,11,1,1,암송,Y,완료,analysis/HEB_011_001.md
 HR043,1PE,5,7,7,암송,Y,완료,analysis/1PE_005_007.md
 HR044,1JN,1,9,9,암송·전도,Y,완료,analysis/1JN_001_009.md
-HR045,REV,3,20,20,암송·전도,N,대기,
-HR046,REV,21,4,4,암송·장례,N,대기,
+HR045,REV,3,20,20,암송·전도,Y,완료,analysis/REV_003_020.md
+HR046,REV,21,4,4,암송·장례,Y,완료,analysis/REV_021_004.md
