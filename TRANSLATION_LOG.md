@@ -197,3 +197,4 @@
 - **EZR 6~10장 및 에스라 전체 빌드**: 번역·검증 및 JSON/XML 빌드 완료 (`output/json/15_EZR.json`, `output/xml/15_EZR.xml`, 총 10장)
 - **NEH 1~5장**: 번역 및 검증 완료 (`work/skv/16_NEH.json`, 5개 장)
 - **NEH 6~8장**: 번역 및 검증 완료 (`work/skv/16_NEH.json`, 3개 장)
+- **NEH 9~13장 및 느헤미야 전체 빌드**: 번역·검증 및 JSON/XML 빌드 완료 (`output/json/16_NEH.json`, `output/xml/16_NEH.xml`, 총 13장)
