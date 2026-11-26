@@ -459,3 +459,7 @@
 ### 2026-11-27: 요엘(JOL) 1~3장 번역 및 요엘 완역·빌드
 - 대상: `work/skv/29_JOL.json` 전체(3장, 73절)
 - 검증 및 산출물: `python3 scripts/build_and_validate.py --book JOL` 통과 (`output/json/29_JOL.json`, `output/xml/29_JOL.xml`)
+
+### 2026-11-27: 아모스(AMO) 1~4장 번역
+- 대상: `work/skv/30_AMO.json` 1~4장
+- 검증: `python3 scripts/build_and_validate.py --book AMO --chapter 1..4` 통과
