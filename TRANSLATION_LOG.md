@@ -218,3 +218,4 @@
 - **PSA 27~32편**: 번역 및 검증 완료 (`work/skv/19_PSA.json`, 6개 편)
 - **PSA 33~36편**: 번역 및 검증 완료 (`work/skv/19_PSA.json`, 4개 편)
 - **PSA 37~40편**: 번역 및 검증 완료 (`work/skv/19_PSA.json`, 4개 편)
+- **PSA 41~46편 및 HR008 분석**: 번역·검증 및 고위험 구절 분석 완료 (`work/skv/19_PSA.json`, `analysis/PSA_046_010.md`, 6개 편)
