@@ -205,3 +205,4 @@
 - **JOB 8~11장**: 번역 및 검증 완료 (`work/skv/18_JOB.json`, 4개 장)
 - **JOB 12~15장**: 번역 및 검증 완료 (`work/skv/18_JOB.json`, 4개 장)
 - **JOB 16~19장**: 번역 및 검증 완료 (`work/skv/18_JOB.json`, 4개 장)
+- **JOB 20~23장**: 번역 및 검증 완료 (`work/skv/18_JOB.json`, 4개 장)
