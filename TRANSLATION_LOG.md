@@ -234,3 +234,4 @@
 - **PSA 106~108편**: 번역 및 검증 완료 (`work/skv/19_PSA.json`, 3개 편)
 - **PSA 109~115편**: 번역 및 검증 완료 (`work/skv/19_PSA.json`, 7개 편)
 - **PSA 116~118편**: 번역 및 검증 완료 (`work/skv/19_PSA.json`, 3개 편)
+- **PSA 119편 및 HR009 분석**: 번역·검증 및 고위험 구절 분석 완료 (`work/skv/19_PSA.json`, `analysis/PSA_119_105.md`, 1개 편 176절)
