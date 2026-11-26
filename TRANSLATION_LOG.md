@@ -515,3 +515,7 @@
 ### 2026-11-27: 스가랴(ZEC) 8~11장 번역
 - 대상: `work/skv/38_ZEC.json` 8~11장
 - 검증: `python3 scripts/build_and_validate.py --book ZEC --chapter 8..11` 통과
+
+### 2026-11-27: 스가랴(ZEC) 12~14장 번역 및 스가랴 완역·빌드
+- 대상: `work/skv/38_ZEC.json` 12~14장 및 스가랴 전체(14장, 211절)
+- 검증 및 산출물: `python3 scripts/build_and_validate.py --book ZEC` 통과 (`output/json/38_ZEC.json`, `output/xml/38_ZEC.xml`)
