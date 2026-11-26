@@ -503,3 +503,7 @@
 ### 2026-11-27: 학개(HAG) 1~2장 번역 및 학개 완역·빌드
 - 대상: `work/skv/37_HAG.json` 전체(2장, 38절)
 - 검증 및 산출물: `python3 scripts/build_and_validate.py --book HAG` 통과 (`output/json/37_HAG.json`, `output/xml/37_HAG.xml`)
+
+### 2026-11-27: 스가랴(ZEC) 1~3장 번역
+- 대상: `work/skv/38_ZEC.json` 1~3장
+- 검증: `python3 scripts/build_and_validate.py --book ZEC --chapter 1..3` 통과
