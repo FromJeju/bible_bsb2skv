@@ -6,7 +6,7 @@
 
 ## 1. 프로젝트 개요 및 저작권(라이선스)
 
-- **번역본 명칭**: 새김역 성경 (`SKV`)
+- **번역본 명칭**: 새김역 성경 (`SKV`, 정식 영문명: *Saegim Korean Version* / 별칭: *Standard Korean Version*, *Steady Korean Version*)
 - **원문(Source Text)**: [Berean Standard Bible (BSB)](https://berean.bible/)
   - BSB는 2023년 4월 30일부로 **퍼블릭 도메인(Public Domain)**으로 공개되어, 별도 허가나 로열티 없이 복제·번역·수정·배포 및 상업적 활용이 모두 가능합니다([Berean Bible Licensing](https://berean.bible/licensing.htm), [Terms and Conditions](https://berean.bible/terms.htm)).
 - **파생 저작물 명칭 및 출처 표기**:

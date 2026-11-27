@@ -2,7 +2,7 @@
 
 # 📖 새김역 성경 (SKV)
 
-**Standard Korean Version** · [Berean Standard Bible (BSB)](https://berean.bible/) 기반 독자 한국어 번역 오픈 프로젝트
+**Saegim Korean Version** *(별칭: Standard Korean Version · Steady Korean Version)* · [Berean Standard Bible (BSB)](https://berean.bible/) 기반 독자 한국어 번역 오픈 프로젝트
 
 <kbd>✅ 66권 · 1,189장 · 31,086절 완역</kbd> · <kbd>📘 원문: BSB (Public Domain)</kbd> · <kbd>📦 포맷: JSON & XML</kbd> · <kbd>⚖️ 본문: CC BY-NC-ND 4.0</kbd> · <kbd>💻 코드: MIT</kbd>
 
