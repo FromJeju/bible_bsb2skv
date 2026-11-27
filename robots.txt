@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://skv.fromjeju.com/sitemap.xml
