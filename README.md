@@ -4,11 +4,7 @@
 
 **Standard Korean Version** · [Berean Standard Bible (BSB)](https://berean.bible/) 기반 독자 한국어 번역 오픈 프로젝트
 
-[[https://img.shields.io/badge/완역_현황-66권_1%2C189장_31%2C086절-10B981?style=for-the-badge&logo=bookstack&logoColor=white]](#-번역-현황)
-[[https://img.shields.io/badge/원문-BSB_Public_Domain-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white]](https://berean.bible/licensing.htm)
-[[https://img.shields.io/badge/포맷-JSON_%26_XML-F59E0B?style=for-the-badge&logo=json&logoColor=white]](#-산출물-및-검증)
-[[https://img.shields.io/badge/본문_라이선스-CC_BY--NC--ND_4.0-EF4444?style=for-the-badge&logo=creativecommons&logoColor=white]](./LICENSE)
-[[https://img.shields.io/badge/코드_라이선스-MIT-14B8A6?style=for-the-badge&logo=opensourceinitiative&logoColor=white]](./LICENSE)
+<kbd>✅ 66권 · 1,189장 · 31,086절 완역</kbd> · <kbd>📘 원문: BSB (Public Domain)</kbd> · <kbd>📦 포맷: JSON & XML</kbd> · <kbd>⚖️ 본문: CC BY-NC-ND 4.0</kbd> · <kbd>💻 코드: MIT</kbd>
 
 [✨ 핵심 원칙](#-핵심-원칙) · [📊 번역 현황](#-번역-현황) · [📦 산출물 및 검증](#-산출물-및-검증) · [📚 문서 안내](#-문서-안내) · [🗂️ 저장소 구조](#️-저장소-구조) · [⚖️ 라이선스](#️-라이선스)
 
@@ -32,9 +28,9 @@
 
 | 구분 | 권 수 | 장 수 | 절 수 | 상태 |
 | :--- | :---: | :---: | :---: | :---: |
-| 📜 **구약 성경** (`GEN`–`MAL`) | 39권 | 929장 | 23,145절 | [https://img.shields.io/badge/완역_완료-10B981?style=flat-square] |
-| ✝️ **신약 성경** (`MAT`–`REV`) | 27권 | 260장 | 7,941절 | [https://img.shields.io/badge/완역_완료-10B981?style=flat-square] |
-| **📖 전체 합계** | **66권** | **1,189장** | **31,086절** | [https://img.shields.io/badge/100%25_완역-2563EB?style=flat-square] |
+| 📜 **구약 성경** (`GEN`–`MAL`) | 39권 | 929장 | 23,145절 | ✅ **완역 완료** |
+| ✝️ **신약 성경** (`MAT`–`REV`) | 27권 | 260장 | 7,941절 | ✅ **완역 완료** |
+| **📖 전체 합계** | **66권** | **1,189장** | **31,086절** | 🎯 **100% 완역** |
 
 ---
 
@@ -56,3 +52,55 @@ python3 scripts/build_and_validate.py --book GEN
 
 # 전체 66권 검증 및 통합 JSON/XML 빌드
 python3 scripts/build_and_validate.py --all --combined
+```
+
+---
+
+## 📚 문서 안내
+
+| 문서 | 설명 |
+| :--- | :--- |
+| 📘 [`TRANSLATION_GUIDE.md`](./TRANSLATION_GUIDE.md) | 번역 원칙, 문체·표기 기준, JSON/XML 스키마, QA 체크리스트 |
+| 🤝 [`CONTRIBUTING.md`](./CONTRIBUTING.md) | 기여자 동의 사항, 고위험 구절 분석 및 검수 절차 |
+| 🏷️ [`glossary.csv`](./glossary.csv) | 핵심 신학 용어·인명·지명 표준 대조표 |
+| ⚠️ [`high_risk_verses.csv`](./high_risk_verses.csv) | 기존 번역 기억 오염 방지를 위한 고위험 구절(`HR001`–`HR016`) 목록 |
+| 🧾 [`TRANSLATION_LOG.md`](./TRANSLATION_LOG.md) | 권별 번역·검증·빌드 작업 이력 |
+
+---
+
+## 🗂️ 저장소 구조
+
+```text
+bible_bsb2skv/
+├── 📄 LICENSE                # 본문(CC BY-NC-ND 4.0) 및 코드(MIT) 이중 라이선스
+├── 📖 README.md              # 프로젝트 안내
+├── 📘 TRANSLATION_GUIDE.md   # 번역 원칙 및 JSON/XML 스키마 가이드
+├── 🤝 CONTRIBUTING.md        # 기여·검수 안내
+├── 🧾 TRANSLATION_LOG.md     # 번역 및 검증 작업 로그
+├── 🏷️ glossary.csv           # 핵심 용어 대조표
+├── ⚠️ high_risk_verses.csv   # 고위험 구절 목록 및 완료 현황
+├── 🔬 analysis/              # 고위험 구절(HR001–HR016) 문장 구조 분석 기록
+├── 🛠️ scripts/               # BSB 추출, 검증, JSON/XML 빌드 스크립트
+├── 📚 source/
+│   └── bsb/                  # BSB 원문 데이터
+├── ✏️ work/
+│   ├── bsb/                  # 권별 BSB 작업용 JSON 및 통계
+│   └── skv/                  # 권별 SKV 번역 작업본 JSON (66권)
+└── 📦 output/
+    ├── json/                 # 권별 JSON + 통합 skv_bible.json
+    └── xml/                  # 권별 XML + 통합 skv_bible.xml
+```
+
+---
+
+## ⚖️ 라이선스
+
+이 저장소는 콘텐츠 유형에 따라 **이중 라이선스**를 적용합니다. 자세한 조건은 [LICENSE](./LICENSE)를 확인해 주세요.
+
+| 대상 | 라이선스 | 핵심 조건 |
+| :--- | :--- | :--- |
+| 📖 **성경 번역 본문 및 데이터**<br>(`output/`, `analysis/`, `glossary.csv` 등) | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko) | 저작자표시 · 비영리 · 변경금지 |
+| 💻 **파싱·변환·검증 소스 코드**<br>(`scripts/` 등) | [MIT License](https://opensource.org/license/mit) | 저작권·허가 표시 조건으로 자유 이용·수정·배포 |
+
+> [!IMPORTANT]
+> 원문인 **Berean Standard Bible (BSB)** 은 퍼블릭 도메인(Public Domain) 저작물이며, 원저작자의 이용 약관에 따라 본 파생 번역본에는 공식 `Berean` 명칭을 사용하지 않습니다.
